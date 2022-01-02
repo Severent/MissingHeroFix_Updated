@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroMissingFix", "HeroMissingFix\HeroMissingFix.csproj", "{7796ED5F-CF13-4EA7-9B93-D1B1DA70E762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7796ED5F-CF13-4EA7-9B93-D1B1DA70E762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7796ED5F-CF13-4EA7-9B93-D1B1DA70E762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7796ED5F-CF13-4EA7-9B93-D1B1DA70E762}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7796ED5F-CF13-4EA7-9B93-D1B1DA70E762}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3F57AD6-889D-4478-B768-E0F684577DD5}
+	EndGlobalSection
+EndGlobal
