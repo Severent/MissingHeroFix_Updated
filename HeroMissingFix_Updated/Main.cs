@@ -4,7 +4,7 @@ using TaleWorlds.CampaignSystem;
 using TaleWorlds.Library;
 using TaleWorlds.MountAndBlade;
 
-namespace HeroMissingFix
+namespace HeroMissingFix_Updated
 {
     // Main inherits from MBSubMOduleBase
     public class HeroFixSubModule : MBSubModuleBase
@@ -14,7 +14,7 @@ namespace HeroMissingFix
         protected override void OnBeforeInitialModuleScreenSetAsRoot()
         {
             base.OnBeforeInitialModuleScreenSetAsRoot();
-            InformationManager.DisplayMessage(new InformationMessage("Successfully loaded HeroMissingFix.", textColor));
+            InformationManager.DisplayMessage(new InformationMessage("Successfully loaded HeroMissingFix_Updated.", textColor));
         }
 
         protected override void OnGameStart(Game game, IGameStarter gameStarterObject)
@@ -30,7 +30,7 @@ namespace HeroMissingFix
                 }
                 catch (Exception ex)
                 {
-                    InformationManager.DisplayMessage(new InformationMessage($"Error while initialising HeroMissingFix:\n\n { ex.Message} \n\n { ex.StackTrace}", textColor));
+                    InformationManager.DisplayMessage(new InformationMessage($"Error while initialising HeroMissingFix_Updated:\n\n { ex.Message} \n\n { ex.StackTrace}", textColor));
                 }
             }
         }

@@ -1,7 +1,7 @@
 ﻿using TaleWorlds.CampaignSystem;
 using TaleWorlds.Core;
 
-namespace HeroMissingFix
+namespace HeroMissingFix_Updated
 {
     internal class ScheduledEvents : CampaignBehaviorBase
 	{

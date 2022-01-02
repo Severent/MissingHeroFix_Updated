@@ -25,7 +25,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>H:\SteamLibrary\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\HeroMissingFix\bin\Win64_Shipping_Client\</OutputPath>
+    <OutputPath>H:\SteamLibrary\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\HeroMissingFix_Updated\bin\Win64_Shipping_Client\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
