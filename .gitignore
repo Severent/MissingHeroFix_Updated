@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Not Needed
+HeroMissingFix_Updated/bin/Debug/*
+HeroMissingFix_Updated/bin/Release/*
+*.csproj
+*.csproj.user
