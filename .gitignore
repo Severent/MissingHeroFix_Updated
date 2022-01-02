@@ -365,5 +365,7 @@ FodyWeavers.xsd
 # Not Needed
 HeroMissingFix_Updated/bin/Debug/*
 HeroMissingFix_Updated/bin/Release/*
+HeroMissingFix_Updated/Properties/*
 *.csproj
 *.csproj.user
+*.sln
