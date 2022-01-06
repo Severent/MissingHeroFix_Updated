@@ -1,7 +1,7 @@
 <Module>
 	<Name value="HeroMissingFix_Updated" />
 	<Id value="HeroMissingFix_Updated" />
-	<Version value="v1.0.0" />
+	<Version value="v1.0.1" />
 	<SingleplayerModule value="true" />
 	<MultiplayerModule value="false" />
 	<Official value="false" />
